@@ -1,0 +1,43 @@
+cdc1  cdc2  cdc3    cdc4 cdc5  cdc6 cdc7 cdc8 cdc9 cdc10 cdc11 cdc12 cdc13 cdc14 cdc15 cdc16 cdc17 cdc18 cdc19 cdc20 cdc21 cdc22 el1 el2 el3 el4 el5 el6 el7 el8 el9 el10 el11 el12 HDel1 HDel2 HDel3 HDel4 HDel5 HDel6 HDel7 HDel8 HDel9 HDel10 HDel11 HDel12  HDcdc1  HDcdc2  HDcdc3    HDcdc4 HDcdc5  HDcdc6 HDcdc7 HDcdc8 HDcdc9 HDcdc10 HDcdc11 HDcdc12
+Professor_1 0.5 cdc1 cdc2 cdc3 cdc4 el1 el2 el3 el4 HDel1 HDel2 HDcdc1 HDcdc2
+Professor_2 0.5 cdc1 cdc5 cdc6 cdc7 el3 el7 el6 el4 HDel1 HDel12 HDcdc1 HDcdc2
+Professor_3 1 cdc9 cdc12 cdc5 cdc1 el6 el8 el2 el5 HDel1 HDel3 HDcdc4 HDcdc6
+Professor_4 1.5 cdc10 cdc11 cdc6 cdc2 el4 el5 el3 el1 HDel2 HDel4 HDcdc5 HDcdc7
+Professor_5 1 cdc7 cdc8 cdc3 cdc15 el7 el4 el9 el6 HDel1 HDel5 HDcdc1 HDcdc8
+Professor_6 1.5 cdc12 cdc9 cdc4 cdc18 el10 el11 el3 el8 HDel3 HDel6 HDcdc2 HDcdc9
+Professor_7 1.5 cdc11 cdc14 cdc5 cdc17 el4 el7 el12 el2 HDel1 HDel7 HDcdc3 HDcdc10
+Professor_8 1.5 cdc13 cdc15 cdc6 cdc21 el10 el8 el1 el5 HDel2 HDel8 HDcdc4 HDcdc11
+Professor_9 1 cdc16 cdc21 cdc13 cdc9 el2 el8 el11 el5 HDel1 HDel11 HDcdc7 HDcdc12
+Professor_10 1 cdc19 cdc20 cdc10 cdc17 el3 el4 el9 el2 HDel2 HDel12 HDcdc1 HDcdc8
+Professor_11 1 cdc18 cdc21 cdc11 cdc14 el10 el7 el6 el1 HDel1 HDel8 HDcdc9 HDcdc2
+Professor_12 1.5 cdc12 cdc19 cdc22 cdc16 el3 el5 el11 el12 HDel2 HDel9 HDcdc10 HDcdc1
+Professor_13 1.5 cdc13 cdc20 cdc14 cdc18 el4 el8 el9 el11 HDel1 HDel10 HDcdc11 HDcdc2
+Professor_14 1.5 cdc14 cdc21 cdc15 cdc17 el1 el2 el7 el12 HDel2 HDel11 HDcdc12 HDcdc3
+Professor_15 0.5 cdc15 cdc22 cdc16 cdc13 el2 el5 el6 el9 HDel1 HDel12 HDcdc4 HDcdc5
+Professor_16 1.5 cdc16 cdc13 cdc17 cdc20 el3 el4 el8 el10 HDel3 HDel7 HDcdc6 HDcdc7
+Professor_17 1 cdc17 cdc14 cdc18 cdc19 el4 el7 el9 el12 HDel1 HDel8 HDcdc8 HDcdc9
+Professor_18 1 cdc18 cdc15 cdc19 cdc21 el1 el6 el11 el8 HDel5 HDel9 HDcdc10 HDcdc11
+Professor_19 1.5 cdc19 cdc16 cdc20 cdc22 el3 el5 el10 el11 HDel1 HDel10 HDcdc2 HDcdc3
+Professor_20 1.5 cdc20 cdc17 cdc21 cdc15 el2 el4 el12 el7 HDel2 HDel11 HDcdc4 HDcdc5
+Professor_21 0.5 cdc1 cdc5 cdc9 cdc12 el2 el5 el6 el8 HDel1 HDel3 HDcdc1 HDcdc2
+Professor_22 1 cdc2 cdc6 cdc10 cdc11 el1 el3 el4 el5 HDel2 HDel4 HDcdc3 HDcdc4
+Professor_23 1 cdc3 cdc7 cdc8 cdc15 el4 el6 el7 el9 HDel1 HDel5 HDcdc6 HDcdc7
+Professor_24 1 cdc4 cdc9 cdc12 cdc18 el3 el8 el10 el11 HDel4 HDel6 HDcdc8 HDcdc9
+Professor_25 1.5 cdc5 cdc11 cdc14 cdc17 el2 el4 el12 el7 HDel1 HDel7 HDcdc10 HDcdc11
+Professor_26 1.5 cdc6 cdc13 cdc15 cdc21 el1 el5 el8 el10 HDel5 HDel8 HDcdc1 HDcdc2
+Professor_27 1.5 cdc7 cdc14 cdc16 cdc19 el3 el6 el9 el11 HDel1 HDel9 HDcdc3 HDcdc4
+Professor_28 0.5 cdc8 cdc15 cdc20 cdc22 el4 el7 el12 el6 HDel4 HDel10 HDcdc5 HDcdc6
+Professor_29 1 cdc9 cdc16 cdc21 cdc13 el1 el2 el5 el8 HDel1 HDel11 HDcdc7 HDcdc8
+Professor_30 1 cdc10 cdc17 cdc19 cdc20 el2 el3 el4 el9 HDel2 HDel12 HDcdc9 HDcdc10
+Professor_31 1 cdc11 cdc18 cdc21 cdc14 el1 el6 el7 el10 HDel1 HDel8 HDcdc11 HDcdc12
+Professor_32 1.5 cdc12 cdc19 cdc22 cdc16 el3 el5 el11 el12 HDel2 HDel9 HDcdc1 HDcdc2
+Professor_33 1.5 cdc13 cdc20 cdc14 cdc18 el4 el8 el9 el11 HDel1 HDel10 HDcdc3 HDcdc4
+Professor_34 1.5 cdc14 cdc21 cdc15 cdc17 el1 el2 el7 el12 HDel2 HDel11 HDcdc5 HDcdc6
+Professor_35 0.5 cdc15 cdc22 cdc16 cdc13 el2 el5 el6 el9 HDel1 HDel12 HDcdc7 HDcdc8
+Professor_36 1.5 cdc16 cdc13 cdc17 cdc20 el3 el4 el8 el10 HDel2 HDel7 HDcdc9 HDcdc10
+Professor_37 1 cdc17 cdc14 cdc18 cdc19 el4 el7 el9 el12 HDel1 HDel8 HDcdc11 HDcdc12
+Professor_38 1 cdc18 cdc15 cdc19 cdc21 el1 el6 el11 el8 HDel6 HDel9 HDcdc1 HDcdc2
+Professor_39 1.5 cdc19 cdc16 cdc20 cdc22 el3 el5 el10 el11 HDel1 HDel10 HDcdc3 HDcdc4
+Professor_40 1.5 cdc20 cdc17 cdc21 cdc15 el2 el4 el12 el7 HDel6 HDel11 HDcdc5 HDcdc6
+
+
